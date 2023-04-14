@@ -38,5 +38,3 @@ To make this web application even better, here are some ideas for future improve
 - Improve the UI/UX by adding animations and responsive design.
 - Implement automated tests to ensure the reliability and stability of the web application.
 - Add support for mobile devices by creating a mobile-friendly version of the web application.
-
-
